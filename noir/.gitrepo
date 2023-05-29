@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ludamad-test-org/noir
+	branch = master
+	commit = 14055b53557670aef01656ff21d8234cbd9ef874
+	parent = 65c3d4319cf7a019c34ad1ce15f48782e15a99a0
+	method = merge
+	cmdver = 0.4.6
