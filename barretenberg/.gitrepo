@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ludamad/barretenberg
+	branch = master
+	commit = 9d7ea0b3c0a760bd2229f905180052a97f117890
+	parent = b22197681ba1042486f231d1a3a71859a3a2152c
+	method = merge
+	cmdver = 0.4.6
